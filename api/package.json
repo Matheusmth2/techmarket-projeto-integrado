@@ -1,0 +1,15 @@
+{
+  "name": "techmarket-api-transferencia",
+  "version": "1.0.0",
+  "description": "API REST de transferência entre contas (projeto acadêmico - Unopar, ADS)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "uuid": "^9.0.1"
+  }
+}
